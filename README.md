@@ -53,3 +53,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takhirzhon&theme=noctis_minimus&layout=compact" />
 </a>
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Takhirzhon)]
+
