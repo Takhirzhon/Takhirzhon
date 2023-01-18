@@ -26,11 +26,7 @@
 </p>
 
 
-<p align="center">
-    <a href="https://github.com/muhammadov-q/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kobiljon Muhammadov's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadov-q&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
+
 ---
 
 
@@ -53,6 +49,14 @@
 ---
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
+<p align="center">
 <a href="https://github.com/Takhirzhon">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Takhirzhon&show_icons=true&theme=dark#gh-dark-mode-only" /> 
 </a>
+  </p>
+
+<p align="center">
+    <a href="https://github.com/Takhirzhon/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Takhirzhon's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Takhirzhon&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
