@@ -48,12 +48,6 @@
 
 ---
 
-<h2> 📈 &nbsp;My GitHub History!</h2>
-<p align="center">
-<a href="https://github.com/Takhirzhon">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Takhirzhon&show_icons=true&theme=dark#gh-dark-mode-only" /> 
-</a>
-  </p>
 
 <p align="center">
     <a href="https://github.com/Takhirzhon/github-readme-streak-stats">
