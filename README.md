@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-* 👂 My name is Tokhirzhon aka Tahir
+* 👂 My name is Tokhirzhon aka Takhir
 * 🔭 I’m currently working on Quiz App for Android
 * 🌱 I’m currently learning C++ and Kotlin
 * 💬 Ask me about everything you want to know about me
