@@ -1,11 +1,6 @@
 ### Hi there 👋
+My name is Takhir
 
-* 👂 My name is Tokhirzhon aka Takhir
-* 🔭 I’m currently working on Quiz App for Android
-* 🌱 I’m currently learning C++ and Kotlin
-* 💬 Ask me about everything you want to know about me
-* 📫 How to reach me: tashmatovtahir@gmail.com
-* ❤️ I love ANIME, Football (aka soccer) and GREECE PHILOSOPHY
 
 ---
 
